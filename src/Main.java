@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Задача 1");
         int man = 19;
         if (man >= 18) {
-            System.out.println("Поздравляю с совершенолетие");
+            System.out.println("Поздравляю с совершенолетиеv");
         }
         if (man < 18) {
             System.out.println("возраст совершеннолетия ещё не наступил, и нужно немного подождать");
